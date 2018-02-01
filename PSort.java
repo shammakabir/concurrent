@@ -35,7 +35,7 @@ public class PSort {
 
 
 
-class sort extends RecursiveAction {
+public class sort extends RecursiveAction {
   int a[];
   int low;
   int high;
